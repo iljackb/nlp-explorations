@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # NLP Explorations
 
 A collection of applied NLP notebooks exploring core techniques in natural language processing, with particular attention to preprocessing decisions, model comparison, and linguistic interpretation of results — not just running a method, but examining *why* it succeeds or fails on real text.
