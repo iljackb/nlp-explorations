@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLP Explorations
 
 A collection of applied NLP notebooks exploring core techniques in natural language processing, with particular attention to preprocessing decisions, model comparison, and linguistic interpretation of results — not just running a method, but examining *why* it succeeds or fails on real text.
@@ -41,3 +42,8 @@ Includes reflective analysis on evaluating unsupervised output without ground tr
 ## Author
 
 Jack Bowers
+=======
+A collection of applied NLP notebooks exploring core techniques in natural language processing, including, though not limited to: named entity recognition, text classification, topic modeling, and semantic retrieval. 
+
+Each notebook applies a specific method to real-world or benchmark datasets, with attention to preprocessing decisions, model comparison, and linguistic interpretation of results.
+>>>>>>> bbde02643d710c42a27ceea34b7e80c6a467dfe4
